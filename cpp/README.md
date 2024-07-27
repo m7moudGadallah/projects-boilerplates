@@ -129,3 +129,14 @@ We can also debug the project using Visual Studio Code. To do this, follow these
 5. Use shortcuts like `F10` to step over, `F11` to step into, etc.
 6. Use the debug panel on the left to inspect variables, call stack, etc.
 
+## File Structure
+
+The project has the following file structure:
+
+- `src/`: Contains the source files (`.cpp`).
+- `include/`: Contains the header files (`.hpp`).
+- `output/`: Contains the compiled executable.
+- `lib/`: Contains third-party libraries (`.a` , etc...)
+- `Makefile`: Contains the build, run, clean, and debug commands.
+- `.clang-format`: Contains the formatting style for clang-format.
+- `.vscode/`: Contains the Visual Studio Code settings and configurations for C++.
