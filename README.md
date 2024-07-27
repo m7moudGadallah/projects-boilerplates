@@ -2,6 +2,6 @@
 
 This is a boilerplate for projects.
 
-## Languages
+## Boilerplates
 
-- [C++](cpp/README.md)
+- [C++ Project Boilerplate](cpp/README.md)
